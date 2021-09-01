@@ -1,0 +1,13 @@
+name: Den theme
+type: theme
+description: Custom
+core_version_requirement: 9.x
+package: Custom
+screenshot: den_theme.png
+libraries:
+  - den_theme/style
+regions:
+  header: Header
+  content: Content
+  footer: Footer
+base theme: classy

@@ -1,0 +1,25 @@
+style:
+  css:
+    theme:
+      css/style.css: {}
+      css/animate.min.css: {}
+      css/bootstrap.min.css: {}
+      css/jquery-ui.css: {}
+      css/jquery.mCustomScrollbar.min.css: {}
+      css/meanmenu.css: {}
+      css/nice-select.css: {}
+      css/normalize.css: {}
+      css/owl.carousel.min.css: {}
+      css/responsive.css: {}
+      css/slick.css: {}
+  js:
+    js/popper.min.js: {}
+    js/bootstrap.bundle.min.js: {}
+    js/jquery-3.0.0.min.js: {}
+    js/fancybox.min.js: {}
+    js/plugin.js: {}
+    js/jquery.mCustomScrollbar.concat.min.js: {}
+    js/custom.js: {}
+    js/jquery.validate.js: {}
+  dependencies:
+    - core/jquery  
